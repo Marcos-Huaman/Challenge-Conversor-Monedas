@@ -14,12 +14,14 @@ Una aplicación de consola desarrollada en Java que permite realizar conversione
 
 ---
 ## 🎥 Video de demostración
-
+<p align="center">
+  <img src="[https://github.com/tu-usuario/tu-repo/assets/tu-id/tuimagen](https://github.com/user-attachments/assets/79f592a7-90f6-4444-8142-458d1379cfc0).gif" width="500"/>
+</p>
 Puedes ver una demo del funcionamiento aquí:
 
 👉 [Ver video](./demo/demo.mp4)
 
-https://github.com/user-attachments/assets/79f592a7-90f6-4444-8142-458d1379cfc0
+
 ---
 ## 📷 Capturas (Modo Consola)
 
