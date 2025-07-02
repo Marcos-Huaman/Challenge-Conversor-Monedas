@@ -13,13 +13,12 @@ Una aplicación de consola desarrollada en Java que permite realizar conversione
 - ✅ Validación de entradas numéricas
 
 ---
+
 ## 🎥 Video de demostración
-<p align="center">
-  <video src="[https://github.com/tu-usuario/tu-repo/assets/tu-id/tuimagen](https://github.com/user-attachments/assets/79f592a7-90f6-4444-8142-458d1379cfc0" width="500"/>
-</p>
+
 Puedes ver una demo del funcionamiento aquí:
 
-👉 [Ver video](./demo/demo.mp4)
+👉 [Ver video] https://github.com/tu-usuario/tu-repo/assets/tu-id/tuimagen](https://github.com/user-attachments/assets/79f592a7-90f6-4444-8142-458d1379cfc0
 
 
 ---
