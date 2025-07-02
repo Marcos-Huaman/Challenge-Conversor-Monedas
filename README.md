@@ -30,14 +30,3 @@ Una aplicación de consola desarrollada en Java que permite realizar conversione
 - API pública de tasas de cambio: [https://www.exchangerate-api.com](https://www.exchangerate-api.com)
 
 ---
-
-## 📦 Estructura del Proyecto
-src/
-└── com/
-└── alurachallenge/
-└── convertersormonedas/
-├── ConversorApp.java // Clase principal con menú
-├── Conversor.java // Lógica de conversión + API
-└── Moneda.java // Modelo de datos (POJO)
-
----
