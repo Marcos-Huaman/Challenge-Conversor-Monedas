@@ -18,8 +18,7 @@ Una aplicación de consola desarrollada en Java que permite realizar conversione
 
 Puedes ver una demo del funcionamiento aquí:
 
-👉 [Ver video] https://github.com/tu-usuario/tu-repo/assets/tu-id/tuimagen](https://github.com/user-attachments/assets/79f592a7-90f6-4444-8142-458d1379cfc0
-
+👉 [Ver video] https://github.com/user-attachments/assets/2977ccb4-1d12-48e6-a4c7-cec9a5993619
 
 ---
 ## 📷 Capturas (Modo Consola)
