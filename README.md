@@ -16,7 +16,7 @@ Una aplicación de consola desarrollada en Java que permite realizar conversione
 
 ## 🎥 Video de demostración
 
-Puedes ver una demo del funcionamiento aquí:
+Puedes ver el funcionamiento aquí:
 
 👉 [Ver video] https://github.com/user-attachments/assets/2977ccb4-1d12-48e6-a4c7-cec9a5993619
 
