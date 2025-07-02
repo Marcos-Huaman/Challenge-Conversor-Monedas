@@ -15,11 +15,12 @@ Una aplicación de consola desarrollada en Java que permite realizar conversione
 ---
 
 ## 📷 Capturas (Modo Consola)
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/41ad8b35-6570-4958-a3b2-60313bf8d32a" alt="Captura 1" width="500"/>
-  <br><br>
-  <img src="https://github.com/user-attachments/assets/cec71c86-3a35-497f-af44-98b181184f26" alt="Captura 2" width="500"/>
+  <img src="https://github.com/user-attachments/assets/41ad8b35-6570-4958-a3b2-60313bf8d32a" alt="Captura 1" width="45%" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/cec71c86-3a35-497f-af44-98b181184f26" alt="Captura 2" width="45%"/>
 </p>
+
 ---
 
 ## 🛠️ Tecnologías usadas
